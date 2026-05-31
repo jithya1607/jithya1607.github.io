@@ -1,4 +1,4 @@
-# FHEML — Jithya K's Technical Blog
+# FHEML — Jithya's Technical Blog
 
 A technical blog on fully homomorphic encryption, 
 privacy-preserving ML, and applied cryptography.
