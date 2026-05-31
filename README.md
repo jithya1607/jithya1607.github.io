@@ -11,5 +11,5 @@ https://jithya1607.github.io
 - GitHub Pages
 
 ## About
-I'm Jithya K, a dual degree student at LPU and IIT Madras, 
+I'm Jithya, a dual degree student at LPU and IIT Madras, 
 documenting my journey into cryptography and ML engineering.
